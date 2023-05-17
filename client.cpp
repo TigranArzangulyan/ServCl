@@ -10,8 +10,8 @@
 #include <vector>
 #include <queue>
 
-constexpr int BUFFER_SIZE = 4;
-constexpr int RESPONSE_SIZE = 8;
+int BUFFER_SIZE = 4;
+int RESPONSE_SIZE = 8;
 
 
 bool isPrime(int n) {
